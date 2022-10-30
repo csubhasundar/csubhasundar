@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/subha sundar chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subha sundar chakraborty" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/subhasundarchakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhasundarchakraborty" height="30" width="40" /></a>
 <a href="https://instagram.com/csubhasundar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="csubhasundar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/subha sundar chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="subha sundar chakraborty" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/subhasundarchakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="subhasundarchakraborty" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
